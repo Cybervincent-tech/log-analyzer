@@ -34,6 +34,22 @@ python analyzer.py
 - Extract IP addresses
 - Detect brute-force attacks
 
+- 
+## SQL Log Analysis
+
+This project also demonstrates basic SQL skills for analyzing logs stored in a database.
+
+### Example Queries
+
+- Create table for logs
+- Insert log data
+- Count failed login attempts
+- Filter suspicious IP addresses
+
+### How to Use
+Run the SQL file in any database system (MySQL, SQLite, PostgreSQL):
+
+log-analysis.sql
 ## Author
 Adane Vincent  
 Accra, Ghana
